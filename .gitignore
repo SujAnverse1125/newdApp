@@ -7,3 +7,5 @@ out/
 .env.*.local
 contracts/target/
 .DS_Store
+
+*.tsbuildinfo
